@@ -8,7 +8,7 @@
 
  1. Describe the purpose of Big 0.
 
-    Big O is used to classify algorithms.
+    Big O measures the time and space efficiency of algorithms for the worst possible scenario for example when a sorting or searching algorithm must loop through the entire data set to accomplish its goal or when conditionals are needed to run the function.
 
 ---
 
@@ -28,7 +28,7 @@
 
     c) O(1), O(log n), O(n log n), O(n), O(n^2)
 
-    A is the correct answer
+    B is the correct answer
 
 ---
 
